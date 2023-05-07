@@ -1,2 +1,34 @@
 
 /* Your CSS Code here. */
+
+.container{
+	display:flex;
+	justify-content: space-between;
+}	
+div .item1{
+	background-color: green;
+	width: 80px;
+	height: 80px;
+	font-size: 40px;
+}
+.item2{
+	background-color: red;
+	width: 80px;
+	height: 80px;
+	font-size: 40px;
+}
+
+.item3{
+	background-color:blue;
+	width: 80px;
+	height: 80px;
+	font-size: 40px;
+}
+
+
+
+
+
+
+
+
